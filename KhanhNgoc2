@@ -5,7 +5,7 @@ elseif game.PlaceId==7258239416 then
   local win = DiscordLib:Window("Test Hub X Free No Premium")  
 local per = game.Players.LocalPlayer.Name
  DiscordLib:Notification("Test Hub","Hello! "..""..per..".                                              ".."Thanks For Using Test Hub","Ok") 
-  local serv = win:Server("VNP2 X Free", "")  
+  local serv = win:Server("Khánh Ngọc Crush t", "")  
     local drops = serv:Channel("Farm+LocalPlayer")   
    local questlist = {}
 local quest = nil   
