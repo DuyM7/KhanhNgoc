@@ -1,5 +1,5 @@
 
-if game.PlaceId==4587545091 then    loadstring(game:HttpGet('https://raw.githubusercontent.com/ginchao/Viet-Nam-Piece-1/main/Beta1'))() 
+if game.PlaceId==4587545091 then    loadstring(game:HttpGet('https://raw.githubusercontent.com/DuyM7/Viet-Nam-Piece1/main/KhanhNgoc'))() 
 elseif game.PlaceId==7258239416 then
   local DiscordLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/ginchao/Discord-Lib/main/Discord-Lib'))()  
   local win = DiscordLib:Window("Test Hub X Free No Premium")  
@@ -892,7 +892,7 @@ btns:Textbox("Bug Report", "Type!", true, function(t)
 if t then
 DiscordLib:Notification("Thông Báo","Tin Nhắn Đã Được Gửi.","Ok")
 HttpService = game:GetService("HttpService") 
- Webhook_URL =  "https://discord.com/api/webhooks/1167083350499020841/Iu6pVDxhv8tUDaf-tR4gCt4W8e9YGYfXF46M52uLN4jQHcfvAUJEJIl8bnY4KKu0WTD0" 
+ Webhook_URL =  "https://discord.com/api/webhooks/1260054056626556940/WS-90jwx1wWuXHJUBbF_rjnRlEBHyc0NwhNBsAunNeIp3zdqBbks-UWe8AdJXdjfMn5J" 
  local ok = request or http_request or (http and http.request) or syn.request 
  ok( 
  { 
